@@ -1,0 +1,32 @@
+body{
+    background-color: #71717a;
+}
+
+#carouselExampleCaptions{
+    min-height: 800px;
+    max-width: 1000px;
+    border-radius: 30px;
+    margin: 0 auto;
+    margin-top: 100px;
+
+
+}
+.carousel-item{
+    /*height: 800px;*/
+
+
+}
+#carouselExampleCaptions .carousel-inner .carousel-item{
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    /*max-width: 600px;*/
+    align-items: center;
+
+}
+
+.carousel-item img{
+    border-radius: 30px;
+
+}
